@@ -46,6 +46,7 @@ body {
 .container__aviso {
     font-size: 12px;
     color: var(--cinza-secundario);
+}
 
 .container__titulo {
     font-size: 28px;
@@ -117,6 +118,3 @@ body {
     text-align: center;
     margin: 5em 3em;
 }
-
-
-
